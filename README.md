@@ -252,10 +252,13 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 
+## Audio play:
 <img width="373" height="839" alt="image" src="https://github.com/user-attachments/assets/24ee1192-dc05-4b44-b6a8-3adfd650bf93" />
 
+## Audio pause:
 <img width="373" height="837" alt="image" src="https://github.com/user-attachments/assets/eea279ec-e570-4d12-9105-4a535024eebb" />
 
+## Audio stop:
 <img width="375" height="841" alt="image" src="https://github.com/user-attachments/assets/5aab1045-cece-4a49-a176-2f82665c3d43" />
 
 ## RESULT
