@@ -32,8 +32,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to play and control the audio file”.
-Developed by: TAMIZHSELVAN B
-Registeration Number : 212223230225
+Developed by: EASWAR R
+Registeration Number : 212223230053
 */
 ```
 
