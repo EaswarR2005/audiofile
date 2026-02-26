@@ -253,13 +253,13 @@ public class MainActivity extends AppCompatActivity {
 ## OUTPUT
 
 ## Audio play:
-<img width="373" height="839" alt="image" src="https://github.com/user-attachments/assets/24ee1192-dc05-4b44-b6a8-3adfd650bf93" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/2e070706-cd31-49c7-bc60-f5f5a4c1ec5a" />
 
 ## Audio pause:
-<img width="373" height="837" alt="image" src="https://github.com/user-attachments/assets/eea279ec-e570-4d12-9105-4a535024eebb" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/8352e7e3-d6f0-47a7-98b4-f579d448f769" />
 
 ## Audio stop:
-<img width="375" height="841" alt="image" src="https://github.com/user-attachments/assets/5aab1045-cece-4a49-a176-2f82665c3d43" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/1dcdacbd-a54f-4c2c-9524-91265b6899f3" />
 
 ## RESULT
    Thus a simple application, to play and control the audio file and to perfrom the start,pause and stop opeartion in Android Studio is developed and executed successfully.
